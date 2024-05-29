@@ -4,7 +4,7 @@ A simple React app Book store Frontend website built with React & React Router D
 
 ## Live Link
 
-Hosted in Netlify -> [Bookworm's Delight]()
+Hosted in Netlify -> [Bookworm's Delight](https://bookwormsdelight.netlify.app/)
 
 ## API
 
